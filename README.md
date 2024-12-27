@@ -28,7 +28,7 @@ CÁCH CHẠY CHƯƠNG TRÌNH
 HƯỚNG DẪN SỬ DỤNG
 1. Cài đặt:
 - Copy code java vào IDE
-- Có cài đặt JDK và cấu hình đúng môi trường
+- Có cài đặt JDK
 2. Chạy chương trình: 
 - Run để thực thi phương thức main trong lớp SortingTest
 3. Tùy chỉnh kích thước mảng:
