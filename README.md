@@ -1,6 +1,6 @@
 # So sánh hiệu suất các thuật toán sắp xếp
 
-MÔ Tả
+MÔ TẢ
 
 Chương trình thực hiện so sánh hiệu suất của các thuật toán sắp xếp, bao gồm:
 - Bubble Sort
@@ -26,6 +26,7 @@ CÁCH CHẠY CHƯƠNG TRÌNH
 - Thời gian thực thi của từng thuật toán sẽ được in ra màn hình console
 
 HƯỚNG DẪN SỬ DỤNG
+
 1.Cài đặt:
 - Copy code java vào IDE
 - Có cài đặt JDK và cấu hình đúng môi trường
