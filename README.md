@@ -27,7 +27,7 @@ CÁCH CHẠY CHƯƠNG TRÌNH
 
 YÊU CẦU HỆ THỐNG
 - Java JDK: phiên bản 23.0.1
-- IDE: IntelliJ IDEA, Eclipse, ...
+- IDE: IntelliJ IDEA
 - Công cụ dòng lệnh (Command Line)
 
 HƯỚNG DẪN SỬ DỤNG
