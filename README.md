@@ -25,12 +25,23 @@ CÁCH CHẠY CHƯƠNG TRÌNH
 3. Hiển thị kết quả:
 - Thời gian thực thi của từng thuật toán sẽ được in ra màn hình console
 
+YÊU CẦU HỆ THỐNG
+- Java JDK: phiên bản 23.0.1
+- IDE: IntelliJ IDEA, Eclipse, ...
+- Công cụ dòng lệnh (Command Line)
 HƯỚNG DẪN SỬ DỤNG
-1. Cài đặt:
-- Copy code java vào IDE
-- Có cài đặt JDK
-2. Chạy chương trình: 
-- Run để thực thi phương thức main trong lớp SortingTest
+1. Clone dự án:
+- git clone URL
+2. Mở dự án trong IDE
+- Mở IDE
+- Import project từ thư mục vừa tải về
+3. Chạy chương trình: 
+- Cách 1: chạy bằng IDE
++ Tìm tệp muốn chạy, nhấn chuột phải và chọn Run để chạy chương trình
+- Cách 2: chạy bằng dòng lệnh
++ Mở thư mục và chuyển đến thư mục chứa dự án
++ Biên dịch file SortingTest.Java: javac SortingTest.java
++ Chạy chương trình: java SortingTest
 3. Tùy chỉnh kích thước mảng:
 - Chỉnh sửa giá trị của biến size trong hàm main để thay đổi kích thước mảng
 
